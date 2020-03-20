@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="15dp"
+    android:background="@drawable/edit_text_shape_blue"
+    android:orientation="vertical"
+    android:paddingBottom="10dp"
+    android:paddingLeft="25dp"
+    android:paddingRight="25dp"
+    android:paddingTop="10dp">
+
+    <TextView
+        android:id="@+id/dwn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:drawableLeft="@drawable/gp_20"
+        android:drawablePadding="3dp"
+        android:gravity="center"
+        android:paddingBottom="10dp"
+        android:text="Download"
+        android:textColor="@color/light_gray"
+        android:textSize="11sp"
+        android:textStyle="normal"
+        android:maxLines="1"/>
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="100dp"
+        android:layout_height="80dp"
+        android:layout_gravity="center" />
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="Demo"
+        android:textSize="14sp"
+        android:textColor="@color/light_gray"
+        android:textStyle="bold"
+        android:maxLines="2"/>
+</LinearLayout>
