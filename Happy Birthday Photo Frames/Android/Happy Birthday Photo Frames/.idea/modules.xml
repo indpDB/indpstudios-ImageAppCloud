@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Happy Birthday Photo Frames.iml" filepath="$PROJECT_DIR$/Happy Birthday Photo Frames.iml" group="Happy Birthday Photo Frames" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Happy_Birthday_Photo_Frames.iml" filepath="$PROJECT_DIR$/.idea/modules/Happy_Birthday_Photo_Frames.iml" group="Happy_Birthday_Photo_Frames" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Happy Birthday Photo Frames/app" />
     </modules>
   </component>
